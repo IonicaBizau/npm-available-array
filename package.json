@@ -1,0 +1,28 @@
+{
+  "name": "npm-available-array",
+  "version": "1.0.0",
+  "description": "Having an array of package names, check which ones are available on npm.",
+  "main": "lib/index.js",
+  "dependencies": {
+    "npm-available": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonicaBizau/npm-available-array.git"
+  },
+  "keywords": [
+    "npm",
+    "available",
+    "array"
+  ],
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/npm-available-array/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/npm-available-array#readme"
+}
