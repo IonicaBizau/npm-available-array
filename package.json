@@ -4,7 +4,9 @@
   "description": "Having an array of package names, check which ones are available on npm.",
   "main": "lib/index.js",
   "dependencies": {
-    "npm-available": "^1.2.1"
+    "bindy": "^1.0.0",
+    "npm-available": "^1.2.1",
+    "same-time": "^2.3.0"
   },
   "devDependencies": {},
   "scripts": {
