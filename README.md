@@ -1,14 +1,18 @@
+
 # npm-available-array [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/npm-available-array.svg)](https://www.npmjs.com/package/npm-available-array) [![Downloads](https://img.shields.io/npm/dt/npm-available-array.svg)](https://www.npmjs.com/package/npm-available-array) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Having an array of package names, check which ones are available on npm.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save npm-available-array
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const available = require("npm-available-array");
@@ -27,7 +31,8 @@ available([
 });
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `availableArray(input, callback)`
 Check if the package names are available on npm.
@@ -36,15 +41,18 @@ Check if the package names are available on npm.
 - **Array** `input`: An array of strings representing npm package names.
 - **Function** `callback`: The callback function.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`namly`](https://github.com/IonicaBizau/namly#readme)
 
-## License
+ - [`namly`](https://github.com/IonicaBizau/namly#readme)—A tool for helping you to choose npm package names.
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
