@@ -1,6 +1,6 @@
 {
   "name": "npm-available-array",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Having an array of package names, check which ones are available on npm.",
   "main": "lib/index.js",
   "dependencies": {
@@ -35,6 +35,7 @@
     "src/",
     "resources/",
     "menu/",
+    "scripts/",
     "cli.js",
     "index.js"
   ]
