@@ -1,6 +1,6 @@
 {
   "name": "npm-available-array",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Having an array of package names, check which ones are available on npm.",
   "main": "lib/index.js",
   "dependencies": {
@@ -38,6 +38,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
